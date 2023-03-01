@@ -1,4 +1,3 @@
-
 #include "zfstream.h"
 
 gzfilebuf::gzfilebuf() :

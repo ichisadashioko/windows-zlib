@@ -1,4 +1,3 @@
-
 This directory contains a Pascal (Delphi, Kylix) interface to the
 zlib data compression library.
 
@@ -73,4 +72,3 @@ The example program is:
   2. Altered source versions must be plainly marked as such, and must not be
      misrepresented as being the original software.
   3. This notice may not be removed or altered from any source distribution.
-

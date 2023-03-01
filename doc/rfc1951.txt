@@ -1,9 +1,3 @@
-
-
-
-
-
-
 Network Working Group                                         P. Deutsch
 Request for Comments: 1951                           Aladdin Enterprises
 Category: Informational                                         May 1996
@@ -56,7 +50,7 @@ Abstract
 
 
 Deutsch                      Informational                      [Page 1]
-
+
 RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
@@ -112,7 +106,7 @@ Table of Contents
 
 
 Deutsch                      Informational                      [Page 2]
-
+
 RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
@@ -168,7 +162,7 @@ RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
 Deutsch                      Informational                      [Page 3]
-
+
 RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
@@ -224,7 +218,7 @@ RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
 Deutsch                      Informational                      [Page 4]
-
+
 RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
@@ -280,7 +274,7 @@ RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
 Deutsch                      Informational                      [Page 5]
-
+
 RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
@@ -336,7 +330,7 @@ RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
 Deutsch                      Informational                      [Page 6]
-
+
 RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
@@ -392,7 +386,7 @@ RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
 Deutsch                      Informational                      [Page 7]
-
+
 RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
@@ -448,7 +442,7 @@ RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
 Deutsch                      Informational                      [Page 8]
-
+
 RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
@@ -504,7 +498,7 @@ RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
 Deutsch                      Informational                      [Page 9]
-
+
 RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
@@ -560,7 +554,7 @@ RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
 Deutsch                      Informational                     [Page 10]
-
+
 RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
@@ -616,7 +610,7 @@ RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
 Deutsch                      Informational                     [Page 11]
-
+
 RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
@@ -672,7 +666,7 @@ RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
 Deutsch                      Informational                     [Page 12]
-
+
 RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
@@ -728,7 +722,7 @@ RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
 Deutsch                      Informational                     [Page 13]
-
+
 RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
@@ -784,7 +778,7 @@ RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
 Deutsch                      Informational                     [Page 14]
-
+
 RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
@@ -840,7 +834,7 @@ RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
 Deutsch                      Informational                     [Page 15]
-
+
 RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
@@ -896,7 +890,7 @@ RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
 Deutsch                      Informational                     [Page 16]
-
+
 RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
@@ -952,4 +946,3 @@ RFC 1951      DEFLATE Compressed Data Format Specification      May 1996
 
 
 Deutsch                      Informational                     [Page 17]
-
