@@ -1,0 +1,19 @@
+name: CI
+on: workflow_dispatch
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Add msbuild to PATH
+      uses: microsoft/setup-msbuild@v1
+    - run: msbuild /p:Configuration=Debug /p:Platform=x64 contrib\vstudio\visualstudio2019_v142\zlibvc.sln
+    - run: msbuild /p:Configuration=Release /p:Platform=x64 contrib\vstudio\visualstudio2019_v142\zlibvc.sln
+    - run: msbuild /p:Configuration=Debug /p:Platform=Win32 contrib\vstudio\visualstudio2019_v142\zlibvc.sln
+    - run: msbuild /p:Configuration=Release /p:Platform=Win32 contrib\vstudio\visualstudio2019_v142\zlibvc.sln
+    - run: tree . /a /f
+    # - uses: actions/upload-artifact@v2.2.0
+    #   with:
+    #     name: windows-zlib
+    #     path: x64
+    #     path: x32
